@@ -1,0 +1,6 @@
+@XAVIER_GARCIA_GESTOR_ITEMS_BACKEND_HostAddress = http://localhost:5072
+
+GET {{XAVIER_GARCIA_GESTOR_ITEMS_BACKEND_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
